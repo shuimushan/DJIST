@@ -1,1 +1,2 @@
-# The code will be released upon acceptance
+# DJIST
+The code will be released upon acceptance
