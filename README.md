@@ -32,10 +32,10 @@ The code for SciceVPR, a Stable Cross-Image Correlation Enhanced Model for Visua
 
 Parts of this repository are inspired by the following repositories:
 
--[SciceVPR](https://github.com/shuimushan/SciceVPR)
--[JIST](https://github.com/ga1i13o/JIST)
--[CricaVPR](https://github.com/Lu-Feng/CricaVPR)
--[DINO-Mix](https://github.com/GaoShuang98/DINO-Mix)
+*[SciceVPR](https://github.com/shuimushan/SciceVPR)\
+*[JIST](https://github.com/ga1i13o/JIST)\
+*[CricaVPR](https://github.com/Lu-Feng/CricaVPR)\
+*[DINO-Mix](https://github.com/GaoShuang98/DINO-Mix)
 
 ## Cite
 Here is the bibtex to cite our paper
